@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpapercave.com/wp/wp7080156.jpg)
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">Learning Everday!</h3>
+<h3 align="center">Learning Everyday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkhaled-1&label=Profile%20views&color=0e75b6&style=flat" alt="zkhaled-1" /> </p>
 
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkhaled-1&show_icons=true&locale=en&layout=compact" alt="zkhaled-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkhaled-1&show_icons=true&locale=en" alt="zkhaled-1" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zKhaled-1&layout=donut-vertical)](https://github.com/zKhaled-1/github-readme-stats)
