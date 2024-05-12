@@ -1,23 +1,23 @@
-![MasterHead](https://images8.alphacoders.com/749/749455.png)
-<h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">Learning Everyday!</h3>
+# Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkhaled-1&label=Profile%20views&color=0e75b6&style=flat" alt="zkhaled-1" /> </p>
+<figure><embed src="https://wakatime.com/share/@KasperX/6abed9b1-a83f-4c25-9431-1027dd99684a.svg"></embed></figure>
 
-- 🔭 I’m currently working on **bash projects**
+## Operating systems
 
-- 🌱 I’m currently learning **MySQL**
+[![Linux-mint](https://img.shields.io/badge/linux-%230078D6.svg?logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+[![android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
 
-- ⚡ Fun fact **Aliens like pizza**
 
-<p align="left">
-</p>
+### Programming Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Python](https://img.shields.io/badge/python-239120?logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-F7DF1E?logo=bash&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkhaled-1&show_icons=true&locale=en&layout=compact" alt="zkhaled-1" /></p>
+### Integrated Development Environments (IDEs)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkhaled-1&show_icons=true&locale=en" alt="zkhaled-1" /></p>
+[![vs code](https://img.shields.io/badge/VSCode-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![visual studio](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zKhaled-1&layout=donut-vertical)](https://github.com/zKhaled-1/github-readme-stats)
+### Application Programming Interfaces (APIs)
+
+[![discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/developers/docs/intro/)
